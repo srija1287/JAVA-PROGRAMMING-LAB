@@ -14,7 +14,7 @@ System.out.println("After Changing the Name : " +t);
 
 output:
 
-
+![Screenshot 2021-06-10 145321](https://user-images.githubusercontent.com/69143780/121500342-d5732700-c9fb-11eb-9304-4b304b1c1b1f.png)
 
 
 #  2 Program to use get Name and get Priority

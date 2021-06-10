@@ -67,7 +67,8 @@ System.out.println(" Hello");
 
 output1:
 
- 
+ ![Screenshot (258)](https://user-images.githubusercontent.com/69143780/121509208-08211d80-ca04-11eb-8e65-7f2bff809ddf.png)
+
 
 
 # 4. creating a thread by implementing Runnable interface.

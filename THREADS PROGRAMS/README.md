@@ -28,8 +28,6 @@ System.out.println(" Priority = " + Thread.currentThread().getPriority());
 } 
 
 Output
-![Screenshot 2021-06-10 145321](https://user-images.githubusercontent.com/69143780/121500342-d5732700-c9fb-11eb-9304-4b304b1c1b1f.png)
-
 
 
 # 3. Program to create a Thread by Extending from Thread Class
